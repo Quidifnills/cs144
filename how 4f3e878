@@ -1,0 +1,24 @@
+*   [33m7ae72e7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Lab0
+[31m|[m[32m\[m  
+[31m|[m * [33m69ba101[m Initial commit
+* [33m4f3e878[m[33m ([m[1;36mHEAD[m[33m)[m Lab0
+* [33m8b6d726[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m Add .clang-format
+[32m|[m * [33mf63c7eb[m[33m ([m[1;31mupstream/check-unsanitized[m[33m)[m Add check_unsanitized target to run all tests without sanitizers
+[32m|[m * [33mdf0a90b[m[33m ([m[1;31mupstream/check7-startercode[m[33m)[m Add sanitizing version of apps (including endtoend)
+[32m|[m * [33m4c4236d[m CS144 Lab checkpoint 7
+[32m|[m * [33m205d4db[m[33m ([m[1;31mupstream/check6-startercode[m[33m)[m CS144 Lab checkpoint 6
+[32m|[m * [33me853e1d[m Disable controversial test for 2024
+[32m|[m * [33me809ceb[m[33m ([m[1;31mupstream/check5-startercode[m[33m)[m Add check5.md
+[32m|[m * [33m907e076[m CS144 Lab checkpoint 5
+[32m|[m * [33m58fe6f1[m Add student-contributed tests
+[32m|[m * [33m13e135f[m[33m ([m[1;31mupstream/check4-startercode[m[33m)[m Fix TCPPeer closure condition
+[32m|[m * [33m59e7235[m CS144 Lab checkpoint 4
+[32m|[m * [33mf51a6df[m[33m ([m[1;31mupstream/check3-startercode[m[33m)[m CS144 Lab checkpoint 3
+[32m|[m * [33m2ffb4b0[m[33m ([m[1;31mupstream/check2-startercode[m[33m)[m Improve tests for TCPReceiver and Wrap32
+[32m|[m * [33m4fafccd[m Uncomment scripts/lines-of-code for TCPReceiver and Wrap32
+[32m|[m * [33m7e340dd[m CS144 Lab checkpoint 2
+[32m|[m * [33mcddbabc[m[33m ([m[1;31mupstream/check1-startercode[m[33m)[m Add .clang-format
+[32m|[m * [33maf9b43b[m CS144 Lab checkpoint 1
+[32m|[m[32m/[m  
+* [33me89b029[m Add symlink to compile_commands.json
+* [33m10699ca[m CS144 Lab checkpoint 0
